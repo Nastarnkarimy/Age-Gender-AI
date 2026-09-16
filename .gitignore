@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Tensorflow
+*.h5
+*.ckpt
+
+# Dataset
+dataset/
+UTKFace/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
